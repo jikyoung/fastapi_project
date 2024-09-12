@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@rollup/rollup-darwin-arm64": "^4.20.0",
+    "bootstrap": "^5.3.3",
     "svelte-spa-router": "^4.0.1"
   }
 }
